@@ -10,7 +10,7 @@ Materials List:
 1x NodeMCU
 2x Relay Module
 1x Alot of wires
-1x Power Supply(With output voltage of the valves. Mine is 24V)
+1x Power Supply(With the voltage of the valves. Mine is 24V)
 1x Irrigation System(With two channels or more)
 1x 5V power supply(For ModeMCU)
 
