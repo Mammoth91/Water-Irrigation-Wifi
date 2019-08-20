@@ -2,7 +2,8 @@ In this project, you will be making a wifi controlled two channel irrigation sys
 
 As the first step to this project, make sure you have an irrigation system installed by professionals or by yourself. Mine is a two channel one, meaning one valve for the front yard, another for the backyard. You can add more valves as you wish by altering the hardware and software.
 
-You can watch my video on youtube for a demonstration.(video link)
+You can watch my video on youtube for a demonstration.
+https://youtu.be/bZYicVLLrII
 
 Step Two:
 Buy Materials
