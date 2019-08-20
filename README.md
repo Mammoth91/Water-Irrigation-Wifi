@@ -24,7 +24,7 @@ Step Four:
 Enter Your wifi SSID and password in the code. Then Upload It.
 
 Step Five:
-Open Mit App Inventor and upload the project file. Change the IP address of my NodeMCU to the address of your NodeMCU. Make sure to change the NodeMCU's Ip address to a static one. You can find it in the DHCP section of your router configuration page.
+Open Mit App Inventor and upload the project file(WaterIrrigation.aia). Change the IP address of my NodeMCU to the address of your NodeMCU. Make sure to change the NodeMCU's Ip address to a static one. You can find it in the DHCP section of your router configuration page.
 
 Step Six:
 Compile the app and install it on your phone.
